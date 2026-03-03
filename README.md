@@ -36,4 +36,4 @@ Unlike standard expense trackers, MyExpence prioritizes data integrity:
 - **Key Management**: Sensitive data is handled using the `androidx.security:security-crypto` library.
 
 ## 📜 License
-   
+This repository does not include a license file by default. If you want a permissive license, add an LICENSE (for example MIT). Ask me and I can add one.
